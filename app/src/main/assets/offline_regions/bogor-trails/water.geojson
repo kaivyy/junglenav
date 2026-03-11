@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Stream Basin" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [106.738, -6.614],
+          [106.756, -6.609],
+          [106.766, -6.594],
+          [106.754, -6.584],
+          [106.735, -6.591],
+          [106.730, -6.604],
+          [106.738, -6.614]
+        ]]
+      }
+    }
+  ]
+}

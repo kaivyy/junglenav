@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Canal Trail" },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [106.775, -6.245],
+          [106.792, -6.232],
+          [106.812, -6.219],
+          [106.836, -6.205]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Civic Ridge Walk" },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [106.786, -6.276],
+          [106.805, -6.253],
+          [106.826, -6.234],
+          [106.851, -6.214]
+        ]
+      }
+    }
+  ]
+}

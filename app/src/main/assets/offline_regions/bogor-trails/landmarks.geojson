@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Observation Point" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.748, -6.603]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "River Camp" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.786, -6.574]
+      }
+    }
+  ]
+}

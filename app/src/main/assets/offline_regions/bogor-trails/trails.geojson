@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Forest Approach" },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [106.688, -6.655],
+          [106.716, -6.629],
+          [106.748, -6.602],
+          [106.781, -6.572]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Ridge Connector" },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [106.720, -6.640],
+          [106.742, -6.618],
+          [106.770, -6.595],
+          [106.808, -6.570]
+        ]
+      }
+    }
+  ]
+}

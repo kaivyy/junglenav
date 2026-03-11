@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Base Camp" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.809, -6.231]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Checkpoint" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.836, -6.212]
+      }
+    }
+  ]
+}

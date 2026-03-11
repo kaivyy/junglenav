@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Highland Traverse" },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [107.540, -6.970],
+          [107.569, -6.951],
+          [107.604, -6.928],
+          [107.646, -6.904]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "North Spur" },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [107.566, -6.988],
+          [107.588, -6.961],
+          [107.617, -6.938],
+          [107.651, -6.918]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Ridge Camp" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [107.603, -6.931]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Peak Marker" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [107.642, -6.907]
+      }
+    }
+  ]
+}

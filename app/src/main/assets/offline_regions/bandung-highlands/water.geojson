@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Summit Lake" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [107.598, -6.942],
+          [107.614, -6.938],
+          [107.622, -6.927],
+          [107.613, -6.917],
+          [107.595, -6.920],
+          [107.590, -6.932],
+          [107.598, -6.942]
+        ]]
+      }
+    }
+  ]
+}
